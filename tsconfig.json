@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "lib": ["dom","es2020","DOM.Iterable","ScriptHost"],
+    "module": "commonjs",
+    "target": "es2019"
+  }
+}

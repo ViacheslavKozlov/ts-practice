@@ -1,0 +1,21 @@
+{
+  "name": "ts-practice",
+  "version": "1.0.0",
+  "description": "typescript study tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViacheslavKozlov/ts-practice.git"
+  },
+  "author": "viacheslav kozlov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViacheslavKozlov/ts-practice/issues"
+  },
+  "homepage": "https://github.com/ViacheslavKozlov/ts-practice#readme",
+  "devDependencies": {},
+  "keywords": []
+}
