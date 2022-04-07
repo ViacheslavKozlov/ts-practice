@@ -1,0 +1,10 @@
+h3 {
+  text-align: center;
+}
+
+input {
+  outline: none;
+  border: none;
+  display: block;
+  margin-bottom: 10px;
+}
