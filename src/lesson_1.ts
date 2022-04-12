@@ -1,5 +1,5 @@
 const refs = {
-  sumBtn: document.getElementById("addBtn"),
+  sumBtn: document.getElementById("addBtn")! as HTMLButtonElement,
   inputNum1: document.getElementById("num1")! as HTMLInputElement,
   inputNum2: document.getElementById("num2")! as HTMLInputElement,
   inputNum3: document.getElementById("num3")! as HTMLInputElement,
